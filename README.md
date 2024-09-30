@@ -6,7 +6,7 @@ This package contains the ROS2 message definitions of the [PX4 Pro ecosystem](ht
 
 ## uORB message definitions
 
-The uORB message definitions, which represent the counter-part of the ROS2 messages found in this package, can be found on the [PX4 Firmware repository](https://github.com/PX4/Firmware).
+The uORBkk message definitions, which represent the counter-part of the ROS2 messages found in this package, can be found on the [PX4 Firmware repository](https://github.com/PX4/Firmware).
 
 ## How are these messsage definitions generated?
 
